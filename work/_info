@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/ROM/ROM
+vdual_flop_CDC_model
+!s110 1711196215
+!i10b 1
+!s100 VL0RVDMB@W]XAZ4K0ERK12
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I69h[75SRW<?IWS5aG:2j=0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro
+w1711196213
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/CDC_dual_flop_model.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/CDC_dual_flop_model.v
+!i122 21
+L0 5 24
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711196215.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/CDC_dual_flop_model.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/CDC_dual_flop_model.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+ndual_flop_@c@d@c_model
+vdual_flop_synchro
+!s110 1711196037
+!i10b 1
+!s100 Zm`^W]^i^J=olaacX^2KF2
+R0
+I9>6AU:ML975HP5T1eWH[o3
+R1
+R2
+w1711195018
+Z6 8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+Z7 FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+!i122 19
+L0 4 22
+R3
+r1
+!s85 0
+31
+!s108 1711196037.000000
+Z8 !s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+!i113 1
+R4
+R5
+vdual_synchro
+!s110 1711194694
+!i10b 1
+!s100 8laj0RW68O4ULK]ZeH5fb0
+R0
+IMMGXSOz_e2GDFjU0lGa@03
+R1
+R2
+w1711194689
+R6
+R7
+!i122 14
+L0 4 17
+R3
+r1
+!s85 0
+31
+!s108 1711194694.000000
+R8
+R9
+!i113 1
+R4
+R5
+vdual_synchro_tb
+!s110 1711195072
+!i10b 1
+!s100 efkPihdFlcDaLPnz]n<f30
+R0
+IbR<C5FED=;olaJdzkbzaa2
+R1
+R2
+w1711195071
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v
+!i122 17
+L0 4 31
+R3
+r1
+!s85 0
+31
+!s108 1711195072.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v|
+!i113 1
+R4
+R5

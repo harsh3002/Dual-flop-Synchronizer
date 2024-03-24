@@ -1,0 +1,589 @@
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro_tb.v was successful.
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 11:55:29 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+quit -sim
+# End time: 11:59:00 on Mar 23,2024, Elapsed time: 0:03:31
+# Errors: 0, Warnings: 8
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 11:59:42 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 7 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 14 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 21 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 28 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 35 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 42 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 49 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 56 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 63 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 70 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 77 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 84 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 91 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 98 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 105 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 112 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 119 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 126 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 133 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 140 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 147 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 154 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 161 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 168 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 175 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 182 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 189 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 196 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 203 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 210 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 217 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 224 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 231 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 238 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 245 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 252 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 259 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 266 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 273 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 280 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 287 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 294 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 301 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 308 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 315 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 322 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 329 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 336 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 343 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 350 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 357 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 364 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 371 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 378 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 385 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 392 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 399 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 406 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 413 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 420 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 427 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 434 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 441 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 448 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 455 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 462 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 469 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 476 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 483 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 490 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 497 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 504 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 511 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 518 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 525 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 532 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 539 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 546 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 553 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 560 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 567 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 574 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 581 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 588 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 595 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 602 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 609 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 616 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 623 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 630 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 637 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 644 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 651 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 658 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 665 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 672 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 679 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 686 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 693 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 700 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+quit -sim
+# End time: 12:00:55 on Mar 23,2024, Elapsed time: 0:01:13
+# Errors: 100, Warnings: 3
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 12:01:08 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 7 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 14 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 21 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 28 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 35 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 42 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 49 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 56 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 63 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 70 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 77 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 84 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 91 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 98 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 105 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 112 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 119 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 126 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 133 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 140 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 147 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 154 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 161 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 168 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 175 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 182 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 189 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 196 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 203 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 210 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 217 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 224 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 231 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 238 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 245 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 252 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 259 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 266 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 273 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 280 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 287 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 294 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 301 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 308 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 315 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 322 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 329 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 336 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 343 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 350 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 357 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 364 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 371 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 378 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 385 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 392 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 399 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+run
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 406 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 413 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 420 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 427 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 434 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 441 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 448 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 455 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 462 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 469 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 476 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 483 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 490 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$rand'
+#    Time: 497 ns  Iteration: 0  Process: /dual_synchro_tb/#INITIAL#25 File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+quit -sim
+# End time: 12:01:56 on Mar 23,2024, Elapsed time: 0:00:48
+# Errors: 71, Warnings: 3
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 12:03:20 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 27
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 28
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 29
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 30
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 31
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 32
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 33
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 34
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 35
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 36
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 38
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 39
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 40
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 41
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 42
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 43
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 44
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 45
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 46
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 47
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 48
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 49
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$rand' is not defined.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_synchro_tb File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro_tb.v Line: 49
+quit -sim
+# End time: 12:03:38 on Mar 23,2024, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 26
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 12:03:59 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+run
+quit -sim
+# End time: 12:05:29 on Mar 23,2024, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 2
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 12:05:45 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+force -freeze sim:/dual_synchro_tb/clk1_tb 1 0, 0 {5 ns} -r 10
+run
+quit -sim
+# End time: 12:09:57 on Mar 23,2024, Elapsed time: 0:04:12
+# Errors: 0, Warnings: 2
+# Compile of dual_synchro_tb.v was successful.
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 17:13:42 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+quit -sim
+# End time: 17:14:37 on Mar 23,2024, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 3
+# Compile of dual_synchro.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 17:14:55 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+quit -sim
+# End time: 17:16:02 on Mar 23,2024, Elapsed time: 0:01:07
+# Errors: 0, Warnings: 2
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 17:16:15 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+quit -sim
+# End time: 17:16:40 on Mar 23,2024, Elapsed time: 0:00:25
+# Errors: 0, Warnings: 3
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 17:16:58 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+run
+quit -sim
+# End time: 17:18:21 on Mar 23,2024, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 2
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 2 errors.
+# Compile of dual_synchro_tb.v failed with 1 errors.
+# Compile of dual_synchro_tb.v was successful.
+vsim work.dual_synchro_tb
+# vsim work.dual_synchro_tb 
+# Start time: 17:27:58 on Mar 23,2024
+# Loading work.dual_synchro_tb
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/dual_synchro_tb/*
+run
+run
+# Can't move the Now cursor.
+run
+run -all
+# Break key hit
+quit -sim
+# End time: 17:32:36 on Mar 23,2024, Elapsed time: 0:04:38
+# Errors: 0, Warnings: 12
+# Compile of CDC_dual_flop_model.v failed with 1 errors.
+# Compile of dual_synchro.v was successful.
+# Compile of dual_synchro.v was successful.
+# Compile of CDC_dual_flop_model.v failed with 1 errors.
+# Compile of CDC_dual_flop_model.v was successful.
+vsim work.dual_flop_CDC_model
+# vsim work.dual_flop_CDC_model 
+# Start time: 17:46:27 on Mar 23,2024
+# Loading work.dual_flop_CDC_model
+# Loading work.dual_flop_synchro
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'sync_out'.
+#    Time: 0 ns  Iteration: 0  Instance: /dual_flop_CDC_model/inst File: C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/CDC_dual_flop_model.v Line: 14
+# Error loading design
+# End time: 17:46:27 on Mar 23,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 7
+# Compile of CDC_dual_flop_model.v was successful.
+vsim work.dual_flop_CDC_model
+# vsim work.dual_flop_CDC_model 
+# Start time: 17:46:57 on Mar 23,2024
+# Loading work.dual_flop_CDC_model
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/dual_flop_CDC_model/*
+force -freeze sim:/dual_flop_CDC_model/reset 0 0
+force -freeze sim:/dual_flop_CDC_model/clk1 1 0, 0 {20 ns} -r 40
+force -freeze sim:/dual_flop_CDC_model/clk2 1 0, 0 {5 ns} -r 10
+force -freeze sim:/dual_flop_CDC_model/clk1_in 1 0, 0 {40 ns} -r 80
+run
+run
+run
+run
+force -freeze sim:/dual_flop_CDC_model/clk1_in 1 0, 0 {25 ns} -r 50
+run
+run
+run
+run
+run
+quit -sim
+# End time: 17:52:09 on Mar 23,2024, Elapsed time: 0:05:12
+# Errors: 0, Warnings: 2
+vcd 
+# Error while executing: vcd
+# Usage: vcd add|checkpoint|comment|dumpports|dumpportsall|dumpportsflush|dumpportslimit|dumpportsoff|dumpportson|file|files|flush|limit|off|on
+variable
